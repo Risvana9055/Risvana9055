@@ -1,3 +1,3 @@
 ### Back roads Tour project
 
-<!Doctype>
+this is sample project
